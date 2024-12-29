@@ -1,0 +1,45 @@
+.container{
+    border: 5px solid rgb(24, 30, 34);
+    margin-top: 10px;
+    
+}
+
+.row{
+    border: 8px solid rgb(69, 182, 226);
+}
+
+.box-1{
+    background-color: aqua;
+    
+}
+.box-2{
+    background-color: pink;
+    
+}
+.box-3{
+    background-color: yellow;
+    
+}
+.box-4{
+    background-color:darkblue ;
+    min-height: 250px;
+}
+.container-fluid{
+    margin-top: 10px;
+    border: 10px solid black;
+}
+
+.Box-1{
+    background-color: grey;
+}
+.Box-2{
+    background-color: orange;
+}
+.Box-3{
+    background-color: aqua;
+}
+
+h5{
+    color: blue;
+    text-decoration: underline;
+}
